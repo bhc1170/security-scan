@@ -1,0 +1,11 @@
+﻿
+Name                           Value                                                                                   
+----                           -----                                                                                   
+Recent Commits                 {7295044 Add GitHub Actions workflow for security checks, df97881 Renamed CI.yml to C...
+Current Branch                 main                                                                                    
+Project Path                   C:\Users\bhc11\AndroidStudioProjects\security-scan                                      
+Gradle Configuration           No gradle.properties file found.                                                        
+Remote Repository              https://github.com/bhc1170/security-scan.git                                            
+Uncommitted Changes            ?? app/                                                                                 
+
+
